@@ -1,0 +1,4 @@
+name: essentials
+version: '1.0'
+main: bramcraft.net.essentials.Essentials
+api-version: '1.21'
